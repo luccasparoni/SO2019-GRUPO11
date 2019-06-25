@@ -1,0 +1,7 @@
+S         100
+E         110
+r         10
+sigma     1
+T         1
+M         100000
+Confidence interval (104.1271, 104.4970)
