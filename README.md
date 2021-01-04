@@ -13,3 +13,7 @@ Trabalho da Disciplina SSC0640 - Sistemas Operacionais
     Execução: ./nome_programa<entrada.txt>saida.txt
     
   Para os algoritmos implementados utilizando a biblioteca GMP, adicionar '-lgmp' ao comando de compilação
+  
+  ////
+  
+  Project created for Operational Systems discipline in University of São Paulo. The goal was to implement the Monte Carlo, Black Scholes, Gauss and Borwein algorithms, with parallel and sequencial implementations.
